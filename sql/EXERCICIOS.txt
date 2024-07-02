@@ -1,0 +1,38 @@
+X123	128.798.200-06	Xena	6632	SEDES	71777-700	Avenida Costeira	Cond. Vila Real - Casa 23
+Y123	174.247.350-47	Yara	5741	SEOPE	71222-200	Ã�rea Residencial Nordeste - ARNE	Apto 606 - Ed BonitÃ£o
+Z123	103.845.160-41	Zico	49944	DIR	71444-400	Avenida Principal	ChÃ¡cara 19
+K999	xxx.xxx.xxx-0x	Fulano de Tal	99999	DIR	71111-100	Rua senac	C
+
+dependente
+333.716.787-09	Rui	15/04/09	Filho(a)	Z123
+xxx.xxx.xxx-0x	Beltrana	01/01/15	Filho(a)	K999
+xxx.xxx.xxx-0y	Cicrana de Tal	01/01/86	CÃ´njuge	K999
+
+SALARIO 
+xxx.xxx.xxx-0x	Fulano de Tal	99999	DIR	71111-100	Rua senac
+103.845.160-41	Zico	49944	DIR	71444-400	Avenida Principal
+701.845.310-04	Uri	49068	DIR	71111-100	Avenida das Castanheiras
+376.574.270-86	Ana	48666	DIR	71111-100	Avenida das Castanheiras
+529.049.230-55	Kelly	7500	SESEG	71333-300	Rua da LegiÃ£o
+750.471.040-79	Gabi	7220	SEFOL	71444-400	Avenida Principal
+943.762.640-59	Maria	6999	SECAP	71444-400	Avenida Principal
+620.476.920-08	OlÃ­via	6895	SEOPE	71222-200	Ã�rea Residencial Nordeste - ARNE
+239.264.900-63	Ivo	6854	SEDES	71444-400	Avenida Principal
+099.710.680-87	Lara	6854	SEFOL	71777-700	Avenida Costeira
+512.154.870-29	Fred	6847	DEREH	71222-200	Ã�rea Residencial Nordeste - ARNE
+203.460.970-02	Rui	6778	SECAP	71777-700	Avenida Costeira
+128.798.200-06	Xena	6632	SEDES	71777-700	Avenida Costeira
+007.563.930-00	Tati	6555	SEOPE	71444-400	Avenida Principal
+639.999.330-03	Caio	6512	SEDES	71333-300	Rua da LegiÃ£o
+609.136.270-46	Paulo	6456	SESEG	71333-300	Rua da LegiÃ£o
+206.642.180-40	Hugo	6357	SECAP	71333-300	Rua da LegiÃ£o
+215.347.960-61	Eli	6233	SESEG	71777-700	Avenida Costeira
+174.247.350-47	Yara	5741	SEOPE	71222-200	Ã�rea Residencial Nordeste - ARNE
+638.965.680-78	Wando	5621	SECAP	71444-400	Avenida Principal
+339.099.960-43	Nei	5487	SEDES	71777-700	Avenida Costeira
+164.902.830-00	Vini	5335	SEFOL	71222-200	Ã�rea Residencial Nordeste - ARNE
+325.066.470-74	Bia	2967	DEPTI	71222-200	Ã�rea Residencial Nordeste - ARNE
+300.976.320-40	QuÃªnia	2869	SEFOL	71444-400	Avenida Principal
+192.379.870-72	Sara	2864	SEDES	71222-200	Ã�rea Residencial Nordeste - ARNE
+735.960.820-13	Dani	2784	SEOPE	71777-700	Avenida Costeira
+945.334.020-03	JoÃ£o	2724	SEOPE	71444-400	Avenida Principal
